@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cryptooz</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="foto_diri">Foto Diri</string>
+    <string name="deskripsi_diri">Mahasiswa yang tertarik bidang pemrograman, khususnya full-stack Developer. Mencoba
+    mengembangkan diri ke depannya. Sedang belajar pemrograman MySQL, Java, dan PHP.</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

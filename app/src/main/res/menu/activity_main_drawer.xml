@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/faucethub"
+            android:icon="@drawable/f"
+            android:title="Faucethub"/>
+
+        <item
+            android:id="@+id/faucetlist"
+            android:icon="@drawable/f"
+            android:title="Faucet List"/>
+        <item
+            android:id="@+id/coinlist"
+            android:icon="@drawable/f"
+            android:title="Coin List"/>
+
+        <item
+            android:id="@+id/calculator"
+            android:icon="@drawable/f"
+            android:title="Calculator"/>
+
+        <item
+            android:id="@+id/aboutme"
+            android:icon="@drawable/f"
+            android:title="About Me"/>
+    </group>
+
+    <item android:title="Social Media">
+        <menu>
+            <item
+                android:id="@+id/facebook"
+                android:icon="@drawable/f"
+                android:title="Facebook" />
+            <item
+                android:id="@+id/twitter"
+                android:icon="@drawable/t"
+                android:title="Twitter" />
+            <item
+                android:id="@+id/telegram"
+                android:icon="@drawable/tele"
+                android:title="Telegram" />
+        </menu>
+    </item>
+
+
+
+</menu>

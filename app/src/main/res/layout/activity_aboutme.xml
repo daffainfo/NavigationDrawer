@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".aboutme">
+
+    <ImageView
+        android:layout_width="500dp"
+        android:layout_height="200dp"
+        android:layout_margin="20dp"
+        app:srcCompat="@drawable/a"
+        android:contentDescription="@string/foto_diri" />
+
+    <TextView
+        android:layout_width="1200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="250dp"
+        android:text="@string/deskripsi_diri"
+        android:textColor="#212121" />
+
+</RelativeLayout>
